@@ -49,6 +49,12 @@ phase-3/
 
 I will grade the latest commit on the default branch as of the deadline. Make sure all code and report files are committed and pushed by then.
 
+### Lab Assignments
+
+Submit each lab assignment before the lab session ends. If you cannot submit it by then, explain why and request an extension. If you do not submit and do not request an extension, you will receive no credit for that week's lab assignment. Lab assignments are graded based on demonstrated effort, and we will keep the workload manageable within the lab session.
+
+Lab assignments often cover part of a project phase or serve as a warm-up for it, but they are separate submissions. Submit project phase work to your GitHub repository and lab assignments to Canvas.
+
 ### Team Review
 
 Each team will have a review for either Phase 2 or Phase 3; I will decide which teams are reviewed in which phase later. I will speak with the whole team and ask members questions in turn. Members may help each other, and the team will share one review result.
