@@ -21,7 +21,7 @@
 | Phase (Tentative) | Start and Due Dates | Point Distribution |
 | :---- | :---- | :---- |
 | [Phase 1: concurrent local queries](phase-1/README.md) | 09/30 – 10/13 (2 weeks) | 8% |
-| Phase 2: parallel global queries | 10/14 – 11/03 (3 weeks) | 11% \+ 3% |
+| [Phase 2: parallel global queries](phase-2/README.md) | 10/14 – 11/03 (3 weeks) | 11% \+ 3% |
 | Phase 3: batched updates and incremental evaluation | 11/04 – 11/24 (3 weeks) | 11% \+ 3% |
 
 **Late Submission Policy**:   
